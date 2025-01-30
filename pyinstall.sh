@@ -11,7 +11,7 @@ python3 -m venv ~/pythonm/
 cd ~/pythonm/
 bin/pip install jupyterlab
 bin/pip install notebook
-bin/pip install mathplotlib
+bin/pip install matplotlib
 bin/pip install seaborn
 bin/pip install pandas
 #
