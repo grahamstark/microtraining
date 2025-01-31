@@ -13,6 +13,8 @@ bin/pip install jupyterlab
 bin/pip install notebook
 bin/pip install seaborn
 bin/pip install pandas
+bin/pip install matplotlib
+bin/pip install numpy
 #
 # start the notebook: server
 #
